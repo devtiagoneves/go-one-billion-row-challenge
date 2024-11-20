@@ -1,0 +1,39 @@
+Rio de Janeiro;25.4
+São Paulo;22.8
+Aracaju;30.0
+Recife;26.5
+Fortaleza;31.2
+Salvador;28.9
+Natal;27.0
+João Pessoa;26.2
+Teresina;31.1
+São Luís;32.4
+Belém;30.9
+Manaus;30.8
+Macapá;31.0
+Boa Vista;31.3
+Porto Velho;31.2
+Rio Branco;31.1
+Palmas;31.0
+Goiânia;30.0
+Brasília;28.8
+Cuiabá;31.2
+Campo Grande;30.0
+São Paulo;21.8
+Belo Horizonte;25.4
+Vitória;26.8
+Rio de Janeiro;42.4
+São Paulo;12.8
+Aracaju;20.0
+Recife;16.5
+Buenos Aires;-25.0
+Montevideo;-30.0
+Santiago;-33.0
+Bogotá;8.0
+Quito;-0.0
+Lima;-12.0
+Caracas;10.0
+La Paz;-16.0
+Asunción;-25.0
+Montevideo;-2.0
+Santiago;-4.0
